@@ -1,0 +1,5 @@
+requests
+flask
+markovify
+sudachipy
+sudachidict_full
